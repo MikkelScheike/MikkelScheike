@@ -24,5 +24,5 @@ I work at <a href="https://salary.dk" target="_blank" rel="noopener noreferrer">
 - 🌍 <strong>GeoAPI</strong> — Simple, developer‑friendly geolocation and country data API for apps and prototypes.  
   Website: <a href="https://geoapi.info" target="_blank" rel="noopener noreferrer">geoapi.info</a>
 
-- ⌚ <strong>Set GMT</strong> — A minimal tool to set your GMT watch precisely to UTC.  
+- ⌚ <strong>Set GMT</strong> — A minimal tool to set your GMT watch.  
   Website: <a href="https://setgmt.com" target="_blank" rel="noopener noreferrer">setgmt.com</a>
