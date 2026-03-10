@@ -26,3 +26,6 @@ I work at <a href="https://salary.dk" target="_blank" rel="noopener noreferrer">
 
 - ⌚ <strong>Set GMT</strong> — A minimal tool to set your GMT watch.  
   Website: <a href="https://setgmt.com" target="_blank" rel="noopener noreferrer">setgmt.com</a>
+  
+- 🏭 <strong>Lookup3PL</strong> — A modern marketplace to find and compare third‑party logistics providers across the American market.  
+  Website: <a href="https://lookup3pl.com" target="_blank" rel="noopener noreferrer">lookup3pl.com</a>
