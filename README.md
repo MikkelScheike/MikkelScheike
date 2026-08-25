@@ -27,5 +27,5 @@ I work at <a href="https://salary.dk" target="_blank" rel="noopener noreferrer">
 - ⌚ <strong>Set GMT</strong> — A minimal tool to set your GMT watch.  
   Website: <a href="https://setgmt.com" target="_blank" rel="noopener noreferrer">setgmt.com</a>
   
-- 🏭 <strong>Lookup3PL</strong> — A modern marketplace to find and compare third‑party logistics providers across the American market.  
-  Website: <a href="https://lookup3pl.com" target="_blank" rel="noopener noreferrer">lookup3pl.com</a>
+- 🛡️ <strong>SourceTrust</strong> — Prove third‑party license obligations with every commit. One reviewed compliance page per product, from the lockfiles and SBOMs you already have.  
+  Website: <a href="https://sourcetrust.dev" target="_blank" rel="noopener noreferrer">sourcetrust.dev</a>
